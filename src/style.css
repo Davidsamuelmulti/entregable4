@@ -1,0 +1,78 @@
+body{
+    background: #296073;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+form{
+    width: 300px;
+    padding:50px;
+    margin: 0 auto;
+    background: #0089BA;
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid gray;
+}
+input, label{
+    border: 0;
+    outline: none;
+    width: 280px;
+}
+
+.App{
+    display: flex;
+}
+.card-form{
+    width: 300px;
+    height: 450px;
+    
+}
+.title{
+    color: white;
+    font-size: 30px;
+}
+.card{
+    display: block;
+    background: #0089BA;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 20px;
+}
+.card-list{
+    display: block;
+    font-size: 14px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+.list{
+    display: block;
+    margin: 5px;
+    padding: 5px;
+}
+ul{
+    color: white;
+}
+.field{
+    padding: 8px;
+    border: 2px solid #ccc;
+    
+}
+
+.btn{
+    width: 100px;
+    padding:8px;
+    margin:19px;
+}
+
+.btn-card{
+    margin: 20px;
+}
+.input-container{
+    width:60px;
+    height:60px;
+    
+}
+
+
